@@ -1,4 +1,4 @@
-# FMCG-Data-Modeling
+# FMCG-Data-Modeling 
 
 ## Project Overview
 This repository hosts a comprehensive data science project conducted at Kalbe Nutritionals. The project addresses critical challenges faced by both the inventory and marketing teams. It involves predictive modeling for daily sales quantity and customer segmentation. The goal is to provide insights and solutions to optimize inventory management and enhance marketing strategies. 
