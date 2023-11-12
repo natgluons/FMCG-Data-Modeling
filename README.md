@@ -14,7 +14,7 @@ To get started with this project, follow these steps:
 * Clone the repository to your local machine.
 * Review the project notebooks to understand the data analysis, predictive modeling, and clustering processes.
 * Use the provided SQL queries for data analysis with DBeaver and PostgreSQL.
-* Explore the Tableau dashboards to gain insights into sales performance and customer segmentation.
+* Explore the Tableau dashboards to gain insights into sales performance and customer segmentation. 
 
 ## Tools
 * Python
