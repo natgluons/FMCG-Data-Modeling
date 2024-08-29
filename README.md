@@ -22,3 +22,5 @@ To get started with this project, follow these steps:
 * Tableau Public
 * DBeaver
 * PostgreSQL
+
+![image](https://github.com/user-attachments/assets/10ba5d6b-ffca-42ae-8840-1ec52ed50db2)
