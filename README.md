@@ -23,4 +23,6 @@ To get started with this project, follow these steps:
 * DBeaver
 * PostgreSQL
 
-![image](https://github.com/user-attachments/assets/10ba5d6b-ffca-42ae-8840-1ec52ed50db2)
+<img width="1045" height="648" alt="predanalytics" src="https://github.com/user-attachments/assets/c092a084-e12f-4cc5-bb8d-f0f68b457f6c" />
+
+
